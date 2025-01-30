@@ -17,7 +17,7 @@ const Navbar = () => {
           <div className="flex items-center flex-shrink-0">
             <img className="h-10 w-10 mr-2" src={logo} alt="Logo" />
             <span className="text-xl tracking-tight"><a href="#home" className="text-xl tracking-tight">
-    VirtualR
+    STIKOM TUNAS BANGSA
   </a></span>
           </div>
           <ul className="hidden lg:flex ml-14 space-x-12">
@@ -29,13 +29,13 @@ const Navbar = () => {
           </ul>
           <div className="hidden lg:flex justify-center space-x-12 items-center">
             <a href="#" className="py-2 px-3 border rounded-md">
-              Sign In
+              Masuk
             </a>
             <a
               href="#"
-              className="bg-gradient-to-r from-orange-500 to-orange-800 py-2 px-3 rounded-md"
+              className="bg-gradient-to-r from-blue-500 to-blue-900 py-2 px-3 rounded-md"
             >
-              Create an account
+              Buat Akun
             </a>
           </div>
           <div className="lg:hidden md:flex flex-col justify-end">
@@ -55,13 +55,13 @@ const Navbar = () => {
             </ul>
             <div className="flex space-x-6">
               <a href="#" className="py-2 px-3 border rounded-md">
-                Sign In
+                Masuk
               </a>
               <a
                 href="#"
                 className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800"
               >
-                Create an account
+                Buat Akun
               </a>
             </div>
           </div>
